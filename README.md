@@ -1,2 +1,2 @@
 # tensorflow-labs
-This repo tracks my end-to-end TensorFlow foundations.
+This repo tracks my end-to-end TensorFlow foundations. 
